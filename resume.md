@@ -3,7 +3,6 @@ Krieghan J. Riley
 krieghan.riley@gmail.com
 2312 Oakton St. #1
 Park Ridge, IL 60068
-(224) 735-0932
 ```
 
 ###Objective:  
