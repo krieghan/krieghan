@@ -56,7 +56,7 @@ Adding server-side features and scaling for Mobage, our mobile game platform. Mu
 * Performed various performance improvements across the application by converting ORM calls to SQL queries 
 * Continually improved our automated test suite to avoid broken code reaching production 
 
-###Computer Skills:
+###Skills:
 
 ####Computer Programming:   	
 * Python
